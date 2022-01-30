@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ArnavFirke
-- 👀 I’m interested in coding and programming
+- 👀 I’m interested in coding,programming and AI
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on different projects
 - 📫 How to reach me ... find me on facebook arnav firke
